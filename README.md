@@ -53,23 +53,23 @@ I am passionate about writing type-safe, maintainable code and leveraging AI-ass
 
 ### 🚀 Featured Projects
 
-#### 🤖 [38-MarketPlace  | Full-Stack E-commerce Application ](https://github.com/muge-yilmaz/ai-career-copilot)
+#### 🤖 [38-MarketPlace  | Full-Stack E-commerce Application ](https://38-market-place-six.vercel.app/)
 - **Description:** Engineered a robust full-stack e-commerce platform featuring secure Auth0 authentication, dynamic state management, 
 and a seamless Stripe Checkout integration
 -Architected accessible (WCAG) and responsive UI components alongside a scalable data model using MongoDB and 
 Prisma to maximize rendering performance. 
 - **Key Tech:** Next.js, React, TypeScript, MongoDB, Prisma, Auth0, Stripe, Tailwind CSS, Jest, Playwright, Vercel. 
-- **Links:** [Live Demo](https://vercel.com/mu-e-ya/38-market-place)  | [GitHub Repository](https://github.com/yasarcetin7/38-MarketPlace )
+- **Links:** [Live Demo](https://38-market-place-six.vercel.app/)  | [GitHub Repository](https://github.com/yasarcetin7/38-MarketPlace )
 
 ---
 
-#### 💡 [Quotes-Project](https://github.com/muge-yilmaz/Interactive-Quote-Engine)
+#### 💡 [Quotes-Project](https://quotes-project-alpha.vercel.app/)
 - **Description:**  Engineered a dynamic quote management application featuring secure Auth0 authentication, robust state 
 management via React Context API, and a seamless light/dark mode theme switcher.
 - Architected responsive, mobile-first UI components using Tailwind CSS, providing a highly accessible and 
 intuitive user experience across all devices. 
 - **Key Tech:** Next.js, React, TypeScript, Tailwind CSS, Auth0, Zod. 
-- **Links:** [Live Demo](https://vercel.com/mu-e-ya/quotes-project) | [GitHub Repository](https://github.com/yasarcetin7/Quotes-Project )
+- **Links:** [Live Demo](https://quotes-project-alpha.vercel.app/) | [GitHub Repository](https://github.com/yasarcetin7/Quotes-Project )
 
 ---
 
